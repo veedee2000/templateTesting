@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-// import Sidebar from './components/sidebar'
 import Header from './components/header'
 import About from './components/about'
 import Skills from './components/skills'
